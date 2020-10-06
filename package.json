@@ -1,0 +1,26 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "* What the project does?     >With new techniques learned using handle bar, MySQL, I created an app that adds the users favorite burger, user can “devour” the burger of choice. Once devoured the burger is sent to area to show consumed.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srassam/burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srassam/burger/issues"
+  },
+  "homepage": "https://github.com/Srassam/burger#readme"
+}
